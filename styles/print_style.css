@@ -1,0 +1,33 @@
+
+body {
+    background: #FFFFFF;
+    color: #FFFFFF;
+    font-family: arial;
+    font-size: 1.05em;
+    line-height: 1.2em;
+    margin: 0 auto;
+    counter-reset: total total1 total2 total3 total4 total5;
+}
+
+.wrap {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: none;
+    margin: 10px auto;
+    padding: 0 20px 30px;
+    width: 900px;
+}
+
+h1 {
+    margin: 0px 20px 20px;
+}
+
+A { 
+    text-decoration: none;
+   } 
+
+A:visited {
+    color: #000000;
+    text-decoration: none;
+   }
